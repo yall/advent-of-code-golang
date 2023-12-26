@@ -14,7 +14,7 @@ func main() {
 	fmt.Println(result)
 }
 
-func solve(line []string) int {
+func solve(lines []string) int {
 	var result int
 	//
 	return result
